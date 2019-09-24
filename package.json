@@ -1,5 +1,5 @@
 {
-  "name": "pdf-to-printer",
+  "name": "@bondvet/pdf-to-printer",
   "version": "1.0.3",
   "description": "A utility to print PDF files from Node.js apps on Windows and Unix-like platforms",
   "license": "MIT",
